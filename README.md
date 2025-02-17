@@ -6,6 +6,7 @@ Welcome to my Tic-Tac-Toe project! This is an interactive two-player Tic-Tac-Toe
 
 - **Website**: Tic-Tac-Toe Game
 - **Framework**: React.js
+- **Languages**: JavaScript, CSS
 - **Deployment**: GitHub Pages
 - **Features**:
   - Two-player turn-based gameplay.
@@ -18,7 +19,7 @@ Welcome to my Tic-Tac-Toe project! This is an interactive two-player Tic-Tac-Toe
 
 Play the Tic-Tac-Toe game at: [Tic-Tac-Toe Demo](https://ruhisawant.github.io/TicTacToe/)
 
-![Website Preview](Components/Assets/website-preview.jpeg)
+<img src="src/Components/Assets/website-preview.jpg" alt="Website Preview" width="500" height="auto">
 
 ## Getting Started
 
