@@ -18,7 +18,7 @@ Welcome to my Tic-Tac-Toe project! This is an interactive two-player Tic-Tac-Toe
 
 Play the Tic-Tac-Toe game at: [Tic-Tac-Toe Demo](https://ruhisawant.github.io/TicTacToe/)
 
-![Website Preview](content/WebsitePreview.gif)
+![Website Preview](Components/Assets/website-preview.jpeg)
 
 ## Getting Started
 
